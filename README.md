@@ -11,7 +11,7 @@ Go to terminal and write `npm i express -E`
 
 Then you will need to install 'node-dev' just type `npm i node-dev -ED`
 
-> It is very important flags ```bash -E``` or ```bash --save-exact``` 
+> It is very important flags `-E` or `bash --save-exact`
 > it means that saved dependencies will be configured with an
 > exact version rather than using npm's default semver
 > range operator; `-D`or `--save-dev` this means that 
