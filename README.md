@@ -9,7 +9,7 @@ Install express.js
 
 Go to terminal and write `npm i express -E`
 
-Then you will need to install 'node-dev' just type `npm i node-dev -ED`
+Now install *node-dev* just type `npm i node-dev -ED`
 
 > It is very important flags `-E` or `--save-exact`
 > it means that saved dependencies will be configured with an
