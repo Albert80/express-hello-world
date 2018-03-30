@@ -1,7 +1,7 @@
 // app.js
 // course at edx.org from Microsoft
 // Introduction to Node.js
-// Express Frame work
+// Express Framework
 
 const express = require('express')
 const app = express()
